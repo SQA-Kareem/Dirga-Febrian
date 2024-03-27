@@ -2,7 +2,7 @@
 
 | No  | Judul Projek                                      | Introduction                                                                                                                                                                                     | Audience | Nama Pengujian               | Link SQA                                                                                            |
 | --- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------- | --------------------------------------------------------------------------------------------------- |
-| 1   | [Internship Monitoring](https://intermoni.my.id/) | Ini adalah aplikasi monitoring internship(magang) yang bisa memonitoring kegiatan internship mahasiswa saat magang, dan juga membantu perusahaan mengiklankan lowongan Internship yang dimiliki. | User     | Pengujian1-searchInternrship | [pengujian1](https://sqa-kareem.github.io/Dirga-Febrian/InternMonitoringApp/Test-Login/) |
+| 1   | [Internship Monitoring](https://intermoni.my.id/) | Ini adalah aplikasi monitoring internship(magang) yang bisa memonitoring kegiatan internship mahasiswa saat magang, dan juga membantu perusahaan mengiklankan lowongan Internship yang dimiliki. | User     | Pengujian1-Login | [pengujian1](https://sqa-kareem.github.io/Dirga-Febrian/InternMonitoringApp/Test-Login/) |
 
 # Panduan Penggunaan
 
