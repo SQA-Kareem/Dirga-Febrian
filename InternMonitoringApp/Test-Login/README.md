@@ -2,7 +2,7 @@
 
 | Objek Pengujian   | Hasil      | Lampiran                                                  |
 | ----------------- | ---------- | --------------------------------------------------------- |
-| Login Mahasiswa   | Berhasil ✔ | [dokumentasi](<TestingLogin_Dirga Febrian_1214039.pdf>) |
+| Login   | Berhasil ✔ | [dokumentasi](<TestingLogin_Dirga Febrian_1214039.pdf>) |
 
 # Panduan Penggunaan
 
